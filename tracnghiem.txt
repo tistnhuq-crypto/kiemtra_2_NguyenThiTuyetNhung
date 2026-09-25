@@ -1,0 +1,5 @@
+Câu 1: 5
+Câu 2: d) Error
+Câu 3: d) $
+Câu 4: a) echo()
+Câu 5: a)  == so sánh giá trị, === so sánh giá trị và kiểu dữ liệu
